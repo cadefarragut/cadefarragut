@@ -1,10 +1,8 @@
 ## Hi, I'm Cade 👋
 
-CS student · personal projects and hobbies · currently grinding LeetCode.
-
-- 🔭 Working on **Automated-Bartender** (senior capstone) and **CounterStrikeHelper**
-- 🌱 Learning *replace me*
-- 📫 [LinkedIn](https://www.linkedin.com/in/cade-farragut-42b3a224a)
+- Currently a **Systems Software Engineer II** at **Hewlett Packard Enterprise** working on iLO BMC firmware
+- B.S. in Computer Engineering
+- [LinkedIn](https://www.linkedin.com/in/cade-farragut-42b3a224a)
 
 <table align="center">
   <tr>
