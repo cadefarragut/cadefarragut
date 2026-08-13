@@ -63,7 +63,6 @@
 
 <div align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=cadefarragut&show_icons=true&include_all_commits=true&rank_icon=percentile&hide=issues,prs&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&icon_color=539bf5" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadefarragut&layout=compact&langs_count=6&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7" alt="Top languages" />
 </div>
 
 ---
