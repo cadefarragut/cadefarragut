@@ -19,7 +19,7 @@ CS student · personal projects and hobbies · currently grinding LeetCode.
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cadefarragut&layout=compact&langs_count=4&hide_border=true&card_width=400&bg_color=22272e&title_color=539bf5&text_color=adbac7" alt="Top languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cadefarragut&layout=compact&langs_count=4&hide_border=true&card_width=400&bg_color=22272e&title_color=539bf5&text_color=adbac7&v=2" alt="Top languages" />
     </td>
   </tr>
 </table>
