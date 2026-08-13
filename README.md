@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/u/cadefarragut/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=22272e" alt="LeetCode" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:cade_farragut@yahoo.com">
     <img src="https://img.shields.io/badge/Email-539bf5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=22272e" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=cadefarragut&style=for-the-badge&color=539bf5&label=PROFILE+VIEWS" alt="views" />
@@ -30,18 +30,18 @@
 
 ---
 
-## 🧑‍💻 About
+## About
 
-- 🔭 Currently working on **Automated-Bartender** (senior capstone) and **CounterStrikeHelper**
-- 🌱 Learning — *replace me* (systems programming? web? ML?)
-- 🧩 Solving LeetCode daily to sharpen DS&A
-- 💬 Ask me about — *replace me*
+- Currently working on **Automated-Bartender** (senior capstone) and **CounterStrikeHelper**
+- Learning — *replace me* (systems programming? web? ML?)
+- Solving LeetCode daily to sharpen DS&A
+- Ask me about — *replace me*
 
 <!-- Keep this list to 3–4 lines. A short, specific "about" reads better than a long generic one. -->
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <!-- Delete what you don't use, add what you do. Icons: https://simpleicons.org -->
 <p align="center">
@@ -64,14 +64,6 @@
 <div align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=cadefarragut&show_icons=true&include_all_commits=true&rank_icon=percentile&hide=issues,prs&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&icon_color=539bf5" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadefarragut&layout=compact&langs_count=6&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=cadefarragut&hide_border=true&background=22272e&stroke=444c56&ring=539bf5&fire=539bf5&currStreakNum=adbac7&sideNums=adbac7&currStreakLabel=539bf5&sideLabels=768390&dates=768390" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cadefarragut&hide_border=true&bg_color=22272e&color=539bf5&line=539bf5&point=adbac7&area=true&area_color=539bf5" alt="Activity graph" />
 </div>
 
 ---
