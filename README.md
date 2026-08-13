@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=cadefarragut)](https://github.com/stats-organization/github-stats-extended)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/cadefarragut?ext=heatmap)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cadefarragut&hide_title=true&custom_title=Cade%20Farragut&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=cadefarragut&hide_title=true&custom_title=Cade%20Farragut&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/cadefarragut?theme=forest?ext=heatmap)
